@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A A passionate Frontend and software developer from Iran</h3>
+<h3 align="center"> A passionate Frontend and software developer from Iran</h3>
 
 <img align= "right" alte="Daniel" width = "400"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVyazQ1c280bGExNnp4MGpsZzY0Nms2aW90Mml2OXkxYWVudHF0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
